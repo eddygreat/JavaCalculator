@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class edwardsTask {
 
     static void endProgram(){
-        System.out.println("you entered an invalid character");
+        System.out.println("Opp: you entered an invalid character");
     }
 
 
